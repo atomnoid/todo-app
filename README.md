@@ -20,6 +20,10 @@ This project focuses on clean code, real-world TypeScript usage, and a smooth fr
 
 ---
 
+---<img width="1898" height="905" alt="Screenshot 2025-11-22 174825" src="https://github.com/user-attachments/assets/8c830370-66dd-4497-a94b-b65df28b2701" />
+
+---
+
 ## 🎯 Features
 
 - ✨ Modern Glass UI (Notion-like design)  
@@ -32,23 +36,9 @@ This project focuses on clean code, real-world TypeScript usage, and a smooth fr
 - 🎯 Clean TypeScript interface for todos  
 - 📁 Modular code structure  
 
----
 
-## 📂 Project Structure
-todo-app/
-│── public/
-│   └── vite.svg
-│
-│── src/
-│   ├── main.ts
-│   ├── style.css
-│   └── assets/         # (optional) for images/icons
-│
-│── index.html
-│── vite.config.js       # auto-created with the command below
-│── package.json
-│── tsconfig.json
-│── .gitignore
+
+
 
 
 
